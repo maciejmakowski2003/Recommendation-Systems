@@ -210,3 +210,6 @@ __marimo__/
 *.csv
 *.tsv
 *.vec
+
+# data
+lab5/ml-latest-small/
